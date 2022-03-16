@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 LameDownloader v0.1.0-alpha
 ========
 
