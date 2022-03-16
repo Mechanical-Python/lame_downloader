@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Mechanical-Python}/count.svg)
 
 LameDownloader v0.1.0-alpha
 ========
