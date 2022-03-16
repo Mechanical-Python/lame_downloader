@@ -1,4 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/{Mechanical-Python}/count.svg)
+![](https://komarev.com/ghpvc/?username=Mechanical-Python&color=75ff35)
+
 
 LameDownloader v0.1.0-alpha
 ========
